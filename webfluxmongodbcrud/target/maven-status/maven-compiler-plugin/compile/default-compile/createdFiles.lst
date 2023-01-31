@@ -1,0 +1,9 @@
+com\example\webfluxmongodbcrud\mapper\MapperConfig.class
+com\example\webfluxmongodbcrud\entity\Product.class
+com\example\webfluxmongodbcrud\service\ProductService.class
+com\example\webfluxmongodbcrud\utils\AppUtils.class
+com\example\webfluxmongodbcrud\WebfluxmongodbcrudApplication.class
+com\example\webfluxmongodbcrud\dto\ProductDto.class
+com\example\webfluxmongodbcrud\service\ProductServiceImpl.class
+com\example\webfluxmongodbcrud\respository\ProductRepository.class
+com\example\webfluxmongodbcrud\controller\ProductController.class
